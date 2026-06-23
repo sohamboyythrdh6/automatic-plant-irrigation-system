@@ -1,12 +1,11 @@
-    name                                              pcs
-2 pin Screw Terminal Block Connectors                  3
-12v water pump                                         1
-lm358 ic                                               1
-8 pin ic socket                                        1
-1n4007 diode                                           1
-10k through hole resistor                              1
-1k through hole resistor                               1
-irfz44n mosfet                                         1
-10k potentiometar                                      1
-Thermal Insulator Pad Sheet   (for mosfet)             1
-heatsink (for mosfet)                                  1
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"10k potentiometar","adjust the sensitivity",1,0.21,"https://makerbazar.in/products/3pin-rotary-shaft-potentiometer-1k-ohm-102?variant=44835522871536","MAKER BAZAR"
+"irfz44n mosfet   ","for switching on and off",1,0.23,"https://makerbazar.in/products/irf-series-n-channel-power-mosfet-transistors?variant=48271908831472","MAKER BAZAR"
+"10k through hole resistor ","for limiting the current",2,0.32,"https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1k-to-99kohm?variant=47248529621232","MAKER BAZAR"
+"1n4007 diode","for protect the circuit",1,0.12,"https://makerbazar.in/products/dip-rectifier-diode-through-hole?variant=46915109421296","MAKER BAZAR"
+"8 pin ic socket ","for connect the ic with main board",1,0.10,"https://makerbazar.in/products/dip-ic-narrow-socket-base-adaptor?variant=48658305155312","MAKER BAZAR"
+"lm358 ic ","to convert current into signal",1,0.10,"https://makerbazar.in/products/low-power-operational-amplifier-ics-op-amp-chip?variant=48251014185200","MAKER BAZAR"
+"12v water pump ","form pump water on plant",1,1.90,"https://makerbazar.in/products/motor-water-pump-aquarium-r385-dc6-12v?variant=37886642716823","MAKER BAZAR"
+"2 pin Screw Terminal Block Connectors ","for connect wires",3,0.26,"https://makerbazar.in/products/wire-to-board-screw-terminal-connectors?variant=48816549658864","MAKER BAZAR"
+"custom pcb","to connect all components",1,4.00,"https://cart.jlcpcb.com/shopcart/cart/","JLC PCB"
+delivry charges,,2,8.7,,,
